@@ -35,7 +35,12 @@
 
 
             }
+
+        internal double CalculateRScore()
+        {
+            throw new NotImplementedException();
         }
+    }
     }
 
 
